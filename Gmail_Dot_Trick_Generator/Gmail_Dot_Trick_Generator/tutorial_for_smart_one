@@ -160,7 +160,7 @@ def dot_trick(handle):
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Run it in cmd where is main.py file.
+Run this in cmd where is main.py file.
 Command:
   python main.py 'sth@gmail.com' 'file_to_save.txt/Output.txt'
   
